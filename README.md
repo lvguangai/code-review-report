@@ -45,6 +45,12 @@ code-review-report/
 
 ## 🚀 快速开始
 
+### 安装技能
+
+```bash
+npx skills add git@github.com:lvguangai/code-review-report.git --skill code-review-report -a qoder
+```
+
 ### 1. 运行 Git 数据分析
 
 使用提供的脚本自动收集 Git 提交数据：
